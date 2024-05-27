@@ -1,0 +1,1 @@
+const generateButton = document.getElementById("generateButton");
